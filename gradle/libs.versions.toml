@@ -1,5 +1,5 @@
 [versions]
-preposition = "1.6.7"
+preposition = "3.4.3"
 
 [libraries]
 preposition = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "preposition" }
